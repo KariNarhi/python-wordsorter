@@ -1,0 +1,12 @@
+rat
+car
+hat
+bad
+beer
+house
+ball
+shovel
+tree
+nail
+sauna
+wind
